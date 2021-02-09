@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Login_Assignment",
-    "slug": "Login_Assignment",
+    "name": "LoginAssignment",
+    "slug": "LoginAssignment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
